@@ -1,0 +1,12 @@
+---
+:id: 153842451
+:submitters:
+- :name: Collin Kim
+  :email: ckim11@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-11 21:09:18.657416000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-11 13:09:18.657416000 Z
+:status: processed
+:score: 13.0
